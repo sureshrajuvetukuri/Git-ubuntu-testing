@@ -1,2 +1,21 @@
 suresh raju vetukuri
 
+tocken(password) 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
+
+sudo apt-get update
+sudo apt-get install git
+git --version
+mkdir suresh
+cd suresh/
+git init
+touch raju.txt  >> suresh raju vetukuri devops engineer
+sudo apt-get install tree
+git status
+git add .
+git status
+git commit -m "first commit"
+git config --global user.email "vetukuri.sureshraju@gmail.com"
+git config --global user.name "sureshrajuvetukuri"
+git commit -m "first commit"
+git remote add origin https://github.com/sureshrajuvetukuri
+git push -u origin master
